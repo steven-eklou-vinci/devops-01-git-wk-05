@@ -1,4 +1,4 @@
-import {Berlinclock} from "../app";
+import { Main } from "../src/app.js";
 
 describe("yuezbvfouzbf",function(){
     it("blblblblblb",function(){

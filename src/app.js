@@ -1,4 +1,4 @@
-export class Berlinclock{
+export class Main{
     minuteLine(time){
         
     }
