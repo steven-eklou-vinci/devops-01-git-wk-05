@@ -1,0 +1,14 @@
+{
+  "name": "devops-01-git-wk-05",
+  "version": "1.0.0",
+  "description": "devops semaine 5",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
